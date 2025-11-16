@@ -18,7 +18,7 @@ seleccionando corte, tinte, peinado y fecha.
 
 ## 📂 Estructura del proyecto
 peluqueria-reservas/
-│── formulario.html
+│── vistaFormulario.php
 │── reservar.php
 │── estilos.css
 
@@ -48,5 +48,5 @@ Iniciar Apache y MySQL en XAMPP
 Acceder desde navegador:
 
 Copiar código
-http://localhost/peluqueria/formulario.html
+http://localhost/peluqueria/vistaFormulario.php
 
