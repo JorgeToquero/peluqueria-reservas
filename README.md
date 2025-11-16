@@ -22,7 +22,7 @@ peluqueria-reservas/
 │── reservar.php
 │── estilos.css
 
-csharp
+
 Copiar código
 
 ## 🗄️ Base de datos
